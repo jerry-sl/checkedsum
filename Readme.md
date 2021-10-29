@@ -1,4 +1,4 @@
-### Traffic Light
+### Checked sum
 ![avatar](./images/sum.jpg)
 
 ### Code 
